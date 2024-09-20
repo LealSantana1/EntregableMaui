@@ -27,7 +27,7 @@ public class CategoriaController
         await _categoriaService.Update(categoria);
     }
 
-    public async void DeleteCategia(int id)
+    public async void DeleteCategoria(int id)
     {
         await _categoriaService.Delete(id);
     }

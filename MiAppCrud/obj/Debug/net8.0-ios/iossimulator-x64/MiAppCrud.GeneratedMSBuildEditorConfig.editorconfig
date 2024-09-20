@@ -57,9 +57,3 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.CategoriaListPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\CategoriaListPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\CategoriaListPage.xaml
-
-[C:/Users/crist/source/repos/MiAppCrud/MiAppCrud/Views/ProductoEditPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MiAppCrud.Views.ProductoEditPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Views\ProductoEditPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Views\ProductoEditPage.xaml

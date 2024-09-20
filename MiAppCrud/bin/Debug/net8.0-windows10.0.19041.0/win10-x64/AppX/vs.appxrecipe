@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-20T19:26:16.933</Modified>
+      <Modified>2024-09-20T20:55:45.586</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-20T19:21:55.555</Modified>
+      <Modified>2024-09-20T20:07:00.892</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MiAppCrud.runtimeconfig.json">
       <PackagePath>MiAppCrud.runtimeconfig.json</PackagePath>
-      <Modified>2024-09-20T19:21:55.200</Modified>
+      <Modified>2024-09-20T20:07:00.201</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MiAppCrud.dll">
       <PackagePath>MiAppCrud.dll</PackagePath>
-      <Modified>2024-09-20T19:26:16.439</Modified>
+      <Modified>2024-09-20T20:55:44.598</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MiAppCrud.exe</PackagePath>
-      <Modified>2024-09-20T19:26:16.446</Modified>
+      <Modified>2024-09-20T20:55:44.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-09-20T18:59:47.538</Modified>
+      <Modified>2024-09-20T20:06:56.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-09-20T18:59:47.563</Modified>
+      <Modified>2024-09-20T20:06:56.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-09-20T18:59:47.599</Modified>
+      <Modified>2024-09-20T20:06:56.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-09-20T18:59:47.652</Modified>
+      <Modified>2024-09-20T20:06:56.362</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-09-20T18:59:47.857</Modified>
+      <Modified>2024-09-20T20:06:56.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,211 +83,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-09-20T18:59:50.217</Modified>
+      <Modified>2024-09-20T20:06:58.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.206</Modified>
+      <Modified>2024-09-20T20:06:58.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.206</Modified>
+      <Modified>2024-09-20T20:06:58.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.206</Modified>
+      <Modified>2024-09-20T20:06:58.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.205</Modified>
+      <Modified>2024-09-20T20:06:58.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.205</Modified>
+      <Modified>2024-09-20T20:06:58.059</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.211</Modified>
+      <Modified>2024-09-20T20:06:58.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.211</Modified>
+      <Modified>2024-09-20T20:06:58.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.210</Modified>
+      <Modified>2024-09-20T20:06:58.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.211</Modified>
+      <Modified>2024-09-20T20:06:58.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.211</Modified>
+      <Modified>2024-09-20T20:06:58.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.213</Modified>
+      <Modified>2024-09-20T20:06:58.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.212</Modified>
+      <Modified>2024-09-20T20:06:58.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.211</Modified>
+      <Modified>2024-09-20T20:06:58.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.212</Modified>
+      <Modified>2024-09-20T20:06:58.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.212</Modified>
+      <Modified>2024-09-20T20:06:58.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.216</Modified>
+      <Modified>2024-09-20T20:06:58.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.216</Modified>
+      <Modified>2024-09-20T20:06:58.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.215</Modified>
+      <Modified>2024-09-20T20:06:58.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.215</Modified>
+      <Modified>2024-09-20T20:06:58.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.215</Modified>
+      <Modified>2024-09-20T20:06:58.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.213</Modified>
+      <Modified>2024-09-20T20:06:58.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.213</Modified>
+      <Modified>2024-09-20T20:06:58.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.213</Modified>
+      <Modified>2024-09-20T20:06:58.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.213</Modified>
+      <Modified>2024-09-20T20:06:58.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.213</Modified>
+      <Modified>2024-09-20T20:06:58.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.208</Modified>
+      <Modified>2024-09-20T20:06:58.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.208</Modified>
+      <Modified>2024-09-20T20:06:58.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.208</Modified>
+      <Modified>2024-09-20T20:06:58.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.207</Modified>
+      <Modified>2024-09-20T20:06:58.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.207</Modified>
+      <Modified>2024-09-20T20:06:58.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.209</Modified>
+      <Modified>2024-09-20T20:06:58.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.209</Modified>
+      <Modified>2024-09-20T20:06:58.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.209</Modified>
+      <Modified>2024-09-20T20:06:58.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.208</Modified>
+      <Modified>2024-09-20T20:06:58.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.208</Modified>
+      <Modified>2024-09-20T20:06:58.062</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.210</Modified>
+      <Modified>2024-09-20T20:06:58.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.210</Modified>
+      <Modified>2024-09-20T20:06:58.064</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.210</Modified>
+      <Modified>2024-09-20T20:06:58.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.210</Modified>
+      <Modified>2024-09-20T20:06:58.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.209</Modified>
+      <Modified>2024-09-20T20:06:58.063</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.207</Modified>
+      <Modified>2024-09-20T20:06:58.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.207</Modified>
+      <Modified>2024-09-20T20:06:58.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.207</Modified>
+      <Modified>2024-09-20T20:06:58.061</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.206</Modified>
+      <Modified>2024-09-20T20:06:58.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.206</Modified>
+      <Modified>2024-09-20T20:06:58.060</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.205</Modified>
+      <Modified>2024-09-20T20:06:58.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.205</Modified>
+      <Modified>2024-09-20T20:06:58.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.204</Modified>
+      <Modified>2024-09-20T20:06:58.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.204</Modified>
+      <Modified>2024-09-20T20:06:58.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-09-20T18:59:50.203</Modified>
+      <Modified>2024-09-20T20:06:58.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\source\repos\MiAppCrud\MiAppCrud\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MiAppCrud.deps.json">
       <PackagePath>MiAppCrud.deps.json</PackagePath>
-      <Modified>2024-09-20T19:21:55.037</Modified>
+      <Modified>2024-09-20T20:06:59.950</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\crist\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

@@ -12,9 +12,6 @@
     <MauiXaml Update="Views\CategoriaListPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="Views\ProductoEditPage.xaml">
-      <SubType>Designer</SubType>
-    </MauiXaml>
   </ItemGroup>
   <ItemGroup>
     <None Update="App.xaml">
